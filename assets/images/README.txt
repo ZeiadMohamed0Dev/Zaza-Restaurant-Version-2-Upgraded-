@@ -1,0 +1,1 @@
+Remote food images are declared in js/app.js. Replace URLs with assets/images paths later if you want local files.
